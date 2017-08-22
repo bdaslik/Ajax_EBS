@@ -1,0 +1,157 @@
+{
+  "0": {
+    "Dersad":"Türk Dili",
+    "dil":"Türkçe",
+    "seviye":"Lisans",
+    "tür":"Zorunlu",
+    "koordinatör":"Okt. GÖKHAN EKŞİ",
+    "verenler":{"0":"Okt. EMİNE ŞULE ERTÜRK ANIKLI",
+      "1":"Okt. ÖZLEM YAHŞİ CEVHER",
+      "2":"Prof.Dr. ENGİN YILMAZ",
+      "3":"Okt.Dr. ENGİN ÖMEROĞLU",
+      "4":"Okt. GÖKHAN EKŞİ",
+      "5":"Okt. SERHAT DEMİREL",
+      "6":"Okt. HÜRDÜNYA ŞAHAN",
+      "7":"Okt. ÖZLEM DÜZLÜ",
+      "8":"Okt. İSHAK AKDEMİR"
+      },
+    "yardımcı":" ",
+    "amac":"Öğrencinin Türkçenin özelliklerini bilmesini, dili doğru ve etkili kullanabilmesini ve toplum içinde kendini daha iyi ifade edebilmesini sağlamak.",
+    "icerik":"Türkçenin yapı ve anlam bakımından özellikleri, temel eserler, toplum içinde kendini ifade etme, dili doğru ve etkili kullanma yolları."
+
+    },
+  "1": {
+    "Dersad":"Fizik I",
+    "dil":"Türkçe",
+    "seviye":"Lisans",
+    "tür":"Zorunlu",
+    "koordinatör":"Doç.Dr. HAKAN YAKUT",
+    "verenler":{"0":"Prof.Dr. RECEP AKKAYA",
+      "1":"Yrd.Doç.Dr. MEHMET KAYMAK",
+      "2":"Doç.Dr. ADİL BAŞOĞLU",
+      "3":"Doç.Dr. SADIK BAĞCI",
+      "4":"Prof.Dr. MEHMET BEKTAŞOĞLU",
+      "5":"Doç.Dr. HAKAN YAKUT",
+      "6":"Doç.Dr. DAVUT AVCI",
+      "7":"Prof.Dr. BARIŞ TAMER TONGUÇ",
+      "8":"Prof.Dr. HÜSEYİN MURAT TÜTÜNCÜ",
+      "9":"Prof.Dr. İBRAHİM OKUR",
+      "10":"Doç.Dr. ALİ ÇORUH",
+      "11":"Yrd.Doç.Dr. HACI AHMET YILDIRIM",
+      "12":"Doç.Dr. ALİ SERDAR ARIKAN",
+      "13":"Yrd.Doç.Dr. NAGİHAN DELİBAŞ",
+      "14":"Doç.Dr. YUSUF ATALAY",
+      "15":"Prof.Dr. LEYLA ÖZDEMİR",
+      "16":"Doç.Dr. FİLİZ ERTUĞRAL",
+      "17":"YILMAZ GÜNEY"
+
+    },
+    "yardımcı":"Fizik Bölümü Öğretim Üyeleri",
+    "amac":"Öğrencilere mühendislik eğitiminde gerekli olan temel mekanik, statik ve dinamik alt yapısının kazandırılması",
+    "icerik":"Ölçme ve birim sistemleri, statik, kinematik, dinamik."
+
+  },
+
+  "2": {
+    "Dersad":"Matematik I",
+    "dil":"Türkçe",
+    "seviye":"Lisans",
+    "tür":"Zorunlu",
+    "koordinatör":"Doç.Dr. MURAT GÜZELTEPE",
+    "verenler":{"0":"Yrd.Doç.Dr. İBRAHİM ÖZGÜR",
+      "1":"Yrd.Doç.Dr. OSMAN SONALCAN",
+      "2":"Doç.Dr. SELMA ALTUNDAĞ",
+      "3":"Doç.Dr. SOLEY ERSOY",
+      "4":"Yrd.Doç.Dr. MURAT SARDUVAN",
+      "5":"Doç.Dr. MUSTAFA ERÖZ",
+      "6":"Doç.Dr. MAHPEYKER ÖZTÜRK",
+      "7":"Doç.Dr. İSMET ALTINTAŞ",
+      "8":"Doç.Dr. MURAT GÜZELTEPE",
+      "9":"Yrd.Doç.Dr. MAHMUT AKYİĞİT",
+      "10":"Doç.Dr. YALÇIN YILMAZ",
+      "11":"Prof.Dr. ÖMER FARUK GÖZÜKIZIL",
+      "12":"Doç.Dr. ŞEVKET GÜR",
+      "13":"Yrd.Doç.Dr. HÜSEYİN KOCAMAN",
+      "14":"Doç.Dr. METİN YAMAN",
+      "15":"Prof.Dr. REFİK KESKİN",
+      "16":"Yrd.Doç.Dr. MEHMET GÜNER",
+      "17":"Doç.Dr. ELMAN HAZAR",
+      "18":"Ar.Gör. HİDAYET HÜDA KÖSAL",
+      "19":"Arş.Gör. TUĞBA PETİK"
+
+    },
+    "yardımcı":"Matematik araştırma görevlileri",
+    "amac":"Matematik ile ilgili temel kavramlar verilerek, tek değişkenli fonksiyonlarda limit, süreklilik, türev kavramlarının ve uygulamalarının verilmesi.",
+    "icerik":"Önbilgiler, Fonksiyonlar, Limit ve Süreklilik, Türev, Türevin Uygulamaları."
+
+
+  },
+
+  "3": {
+    "Dersad":"LİNEER CEBİR",
+    "dil":"Türkçe",
+    "seviye":"Lisans",
+    "tür":"Zorunlu",
+    "koordinatör":"Prof.Dr. ÖMER FARUK GÖZÜKIZIL",
+    "verenler":{"0":"Yrd.Doç.Dr. OSMAN SONALCAN",
+      "1":"Yrd.Doç.Dr. BAHAR DEMİRTÜRK BİTİM",
+      "2":"Doç.Dr. MAHPEYKER ÖZTÜRK",
+      "3":"Doç.Dr. YALÇIN YILMAZ",
+      "4":"Prof.Dr. ÖMER FARUK GÖZÜKIZIL",
+      "5":"Doç.Dr. METİN YAMAN",
+      "6":"Doç.Dr. AŞKIN DEMİRKOL",
+      "7":"Prof.Dr. REFİK KESKİN",
+      "8":"Prof.Dr. MEHMET ALİ GÜNGÖR",
+      "9":"Doç.Dr. ELMAN HAZAR",
+      "10":"Arş.Gör. TUĞBA PETİK",
+      "11":"Yrd.Doç.Dr. ENGİN CAN"
+    },
+    "yardımcı":" ",
+    "amac":"Öğrencilerin; lineer denklem sistemlerinin çözümü, matrislerlerle gösterimi, rank, matris ve determinantlarla lineer sistemlerin çözümleri, vektörler, skaler çarpım-vektörel çarpımı, öz değerler ve öz vektörler ve lineer dönüşüm yöntemlerini öğrenmesi ve lineer sistemlerin davranışlarına uyarlayabilmesi.",
+    "icerik":"Matris ve determinant işlemleri, lineer denklem sistemlerinin matris-determinant yaklaşımlarıyla çözümü (Gauss, Gauss-Jordan, Cramer, ters matris), vektörler, vektörel işlemler, vektörlerin skaler ve vektörel çarpımları, ortagonal-ortanormal vektörler, lineer dönüşümler, kare matrisin öz değer ve öz vektörleri, öz değer - öz vektörlerin lineer sistem davranışına etkisi."
+
+  },
+
+  "4": {
+    "Dersad":"BİLGİSAYAR MÜHENDİSLİĞİNE GİRİŞ",
+    "dil":"Türkçe",
+    "seviye":"Lisans",
+    "tür":"Zorunlu",
+    "koordinatör":"Yrd.Doç.Dr. NİLÜFER YURTAY",
+    "verenler":{"0":"Doç.Dr. KÜRŞAT AYAN",
+      "1":"Yrd.Doç.Dr. SERAP KAZAN",
+      "2":"Öğr.Gör. NEVZAT TAŞBAŞI",
+      "3":"Okt. YÜKSEL YURTAY",
+      "4":"Prof.Dr. CEMİL ÖZ",
+      "5":"Yrd.Doç.Dr. NİLÜFER YURTAY",
+      "6":"Doç.Dr. İBRAHİM ÖZÇELİK",
+      "7":"Yrd.Doç.Dr. MURAT İSKEFİYELİ",
+      "8":"Yrd.Doç.Dr. ALİ GÜLBAĞ",
+      "9":"Doç.Dr. AHMET ÖZMEN",
+      "10":"Prof.Dr. CELAL ÇEKEN",
+      "11":"Yrd.Doç.Dr. DEVRİM AKGÜN",
+      "12":"Yrd.Doç.Dr. FERHAT DİKBIYIK"
+
+    },
+    "yardımcı":"Arş. Gör. Hüseyin ESKİ, Arş. Gör. Hüseyin Demirci",
+    "amac":"Bilgisayar Mühendisliği kapsamına giren konulara ait temel bilgileri vermek, bölümde yapılan araştırma faaliyetlerinin tanıtılması, öğrencilere yazılı ve sözlü iletişim tekniklerini öğretmek. Öğrencilerimizi genel olarak mühendislik etiği ve özel olarak Bilgisayar Mühendisliği etiği hakkında bilgilendirmek.",
+    "icerik":"Bölümün ve araştırma faaliyetlerinin tanıtımı. Bilgi işlem sistemlerinin genel yapısı hakkında temel konular: Donanım ve yazılım. Mühendislik etiği. Yazılı ve sözlü iletişim teknikleri. Görsel araçlar ve sunuş."
+
+  },
+  "5": {
+    "Dersad":"PROGRAMLAMAYA GİRİŞ	",
+    "dil":"Türkçe/İngilizce",
+    "seviye":"Lisans",
+    "tür":"Zorunlu",
+    "koordinatör":"Prof.Dr. CEMİL ÖZ",
+    "verenler":{"0":"Doç.Dr. CÜNEYT BAYILMIŞ",
+      "1":"Prof.Dr. CEMİL ÖZ",
+      "2":"Prof.Dr. CELAL ÇEKEN"
+    },
+    "yardımcı":"Ars.Gor. Ozgur CIFTI",
+    "amac":"Bu dersin amaci, bilgisayar programlamasi konusuna bir giris yapmak, programlama ile ilgili genel kavramlari ortaya koymak, algoritma kavrami, algoritmalarin nasil olusturulacagi ve yapisal programlama konusuna deginmektir.",
+    "icerik":"Algoritma kavrami. Akis diyagramlari. Programlama ve programlama dili. Yapisal programlama kavrami. Değişkenler, karar yapıları, döngüler. Dizi (vektör) kavrami. Dizilerde (vektörlerde) arama ve siralama algoritmalari. Çok boyutlu diziler (matrisler). İşaretçiler, Yapı, enum. Dosya (file) kullanimi ve dosyalarla ilgili temel kavramlar. Format kavrami ve girdi-çikti formatlama. Altprogram kavrami. Özyineleme kavrami ve özyinelemeli altprogram örnekleri."
+
+  }
+
+}
